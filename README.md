@@ -24,10 +24,10 @@
 <a href="https://togrulagayev.com/assets/toghrul_aghayev_cv.pdf">
   <img src="https://img.shields.io/badge/Download_CV-101014?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
 </a>
-<a href="mailto:togrulagayev.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:me@togrulagayev.com">
+  <img src="https://img.shields.io/badge/Email-5E7CFF?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.linkedin.com/in/toghrulaghayev">
+<a href="https://www.linkedin.com/in/togrulagayev">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -48,12 +48,16 @@
 ```dart
 class ToghrulAghayev extends CrossPlatformEngineer {
   final location = 'Azerbaijan 🇦🇿 · UTC+4';
-  final email    = 'togrulagayev.dev@gmail.com';
+  final email    = 'me@togrulagayev.com';
   final website  = 'https://togrulagayev.com';
 
   final currentWork = [
     'TenderYard LLC — buy & sell marketplace   (06/2024 → now)',
-    'YadEt — on-demand services platform       (01/2025 → now)',
+  ];
+
+  final shipped = [
+    'YadEt — on-demand services platform       (01/2025 → 03/2026)',
+    'PassMate — zero-knowledge vault           (Microsoft Store)',
   ];
 
   final focus = [
@@ -71,9 +75,9 @@ class ToghrulAghayev extends CrossPlatformEngineer {
 
 <div align="center">
 
-| **1 codebase** | **4+ years** | **2 apps** | **Real-time** |
+| **1 codebase** | **4+ years** | **3 apps** | **Real-time** |
 |:---:|:---:|:---:|:---:|
-| six platforms — mobile · web · desktop | of Flutter experience | live on App Store & Google Play | chat · video calls · streaming |
+| six platforms — mobile · web · desktop | of Flutter experience | live on App Store, Play & MS Store | chat · video calls · streaming |
 
 </div>
 
@@ -112,6 +116,7 @@ class ToghrulAghayev extends CrossPlatformEngineer {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="assets/work-tenderyard.jpg" alt="TenderYard — listings feed, reels and in-app call"/>
       <h3>🛒 TenderYard — Marketplace</h3>
       <p>Buy & sell marketplace built from scratch, in production with regular releases.</p>
       <ul>
@@ -123,6 +128,7 @@ class ToghrulAghayev extends CrossPlatformEngineer {
       <a href="https://play.google.com/store/apps/details?id=com.tenderyard.android.release&hl=en_US"><img src="https://img.shields.io/badge/Google_Play-0B0B0D?style=flat-square&logo=googleplay&logoColor=white" alt="Google Play"/></a>
     </td>
     <td width="50%" valign="top">
+      <img src="assets/work-yadet.jpg" alt="YadEt — onboarding, order flow and notifications"/>
       <h3>🛠 YadEt — On-Demand Services</h3>
       <p>Service booking platform connecting customers with registered providers. 4 languages.</p>
       <ul>
@@ -136,6 +142,7 @@ class ToghrulAghayev extends CrossPlatformEngineer {
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="assets/work-passmate.jpg" alt="PassMate — vault, password generator and security report"/>
       <h3>🔐 PassMate — Password Manager</h3>
       <p>Zero-knowledge password manager: the backend stores only ciphertext.</p>
       <ul>
@@ -143,9 +150,11 @@ class ToghrulAghayev extends CrossPlatformEngineer {
         <li>→ Riverpod 3 · go_router</li>
         <li>→ Mobile + Windows desktop</li>
       </ul>
-      <img src="https://img.shields.io/badge/COMING_SOON-5E7CFF?style=flat-square" alt="Coming soon"/>
+      <a href="https://apps.microsoft.com/detail/9p0nvmbvm2pb"><img src="https://img.shields.io/badge/Microsoft_Store-0B0B0D?style=flat-square&logo=windows&logoColor=white" alt="Microsoft Store"/></a>
+      <img src="https://img.shields.io/badge/MOBILE_SOON-5E7CFF?style=flat-square" alt="Mobile coming soon"/>
     </td>
     <td width="50%" valign="top">
+      <img src="assets/work-lingoes.jpg" alt="Lingoes — game board, win sheet and statistics"/>
       <h3>🎮 Lingoes — Word Game</h3>
       <p>Wordle-style word game in 3 languages, fully offline.</p>
       <ul>
