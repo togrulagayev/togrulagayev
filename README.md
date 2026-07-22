@@ -164,8 +164,8 @@ class ToghrulAghayev extends CrossPlatformEngineer {
 
 | | Period | Role | Company |
 |:---:|--------|------|---------|
-| 🟢 | 01/2025 — now | Flutter Developer | YadEt |
 | 🟢 | 06/2024 — now | Flutter Developer | TenderYard LLC |
+| ⚪ | 01/2025 — 03/2026 | Flutter Developer | YadEt |
 | ⚪ | 01/2023 — 12/2024 | Flutter Developer & Instructor | Codelandia IT School |
 | ⚪ | 05/2022 — 11/2022 | Flutter Developer | Freelance |
 | ⚪ | 11/2021 — 03/2022 | Flutter Intern & Mentor | TechCamp |
