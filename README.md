@@ -169,6 +169,29 @@ class ToghrulAghayev extends CrossPlatformEngineer {
 
 <br/>
 
+## `// OPEN SOURCE`
+
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <h3>🔔 flutter_ringtone_player_plus — Flutter Plugin</h3>
+      <p>Plays system ringtones, alarms, notification sounds and custom audio on Android and iOS. A maintained rewrite of flutter_ringtone_player.</p>
+      <ul>
+        <li>→ Kotlin (MediaPlayer, audio focus) + Swift (AVAudioPlayer, audio session)</li>
+        <li>→ Type-safe Pigeon channel, playback events, typed errors</li>
+        <li>→ Unit, Robolectric, XCTest and integration tests in CI · 160/160 pub points</li>
+      </ul>
+      <a href="https://pub.dev/packages/flutter_ringtone_player_plus"><img src="https://img.shields.io/pub/v/flutter_ringtone_player_plus?style=flat-square&logo=dart&logoColor=white&color=0B0B0D" alt="pub.dev"/></a>
+      <a href="https://github.com/togrulagayev/flutter_ringtone_player_plus"><img src="https://img.shields.io/badge/Source-0B0B0D?style=flat-square&logo=github&logoColor=white" alt="Source on GitHub"/></a>
+    </td>
+    <td width="35%" valign="top" align="center">
+      <img src="https://raw.githubusercontent.com/togrulagayev/flutter_ringtone_player_plus/main/doc/screenshot.png" width="200" alt="flutter_ringtone_player_plus example app"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ## `// EXPERIENCE`
 
 | | Period | Role | Company |
