@@ -47,16 +47,16 @@
 
 ```dart
 class ToghrulAghayev extends CrossPlatformEngineer {
-  final location = 'Azerbaijan 🇦🇿 · UTC+4';
+  final location = 'Sumgait, Azerbaijan 🇦🇿 · UTC+4';
   final email    = 'me@togrulagayev.com';
   final website  = 'https://togrulagayev.com';
 
   final currentWork = [
     'TenderYard LLC — buy & sell marketplace   (06/2024 → now)',
+    'YadEt — on-demand services platform       (01/2025 → now, maintenance)',
   ];
 
   final shipped = [
-    'YadEt — on-demand services platform       (01/2025 → 03/2026)',
     'PassMate — zero-knowledge vault           (Microsoft Store)',
   ];
 
@@ -75,9 +75,9 @@ class ToghrulAghayev extends CrossPlatformEngineer {
 
 <div align="center">
 
-| **1 codebase** | **4+ years** | **3 apps** | **Real-time** |
+| **1 codebase** | **4+ years** | **Open source** | **Real-time** |
 |:---:|:---:|:---:|:---:|
-| six platforms — mobile · web · desktop | of Flutter experience | live on App Store, Play & MS Store | chat · video calls · streaming |
+| six platforms — mobile · web · desktop | of Flutter experience | flutter_ringtone_player_plus on pub.dev | chat · video calls · streaming |
 
 </div>
 
@@ -153,17 +153,6 @@ class ToghrulAghayev extends CrossPlatformEngineer {
       <a href="https://apps.microsoft.com/detail/9p0nvmbvm2pb"><img src="https://img.shields.io/badge/Microsoft_Store-0B0B0D?style=flat-square&logo=windows&logoColor=white" alt="Microsoft Store"/></a>
       <img src="https://img.shields.io/badge/MOBILE_SOON-5E7CFF?style=flat-square" alt="Mobile coming soon"/>
     </td>
-    <td width="50%" valign="top">
-      <img src="assets/work-lingoes.jpg" alt="Lingoes — game board, win sheet and statistics"/>
-      <h3>🎮 Lingoes — Word Game</h3>
-      <p>Wordle-style word game in 3 languages, fully offline.</p>
-      <ul>
-        <li>→ 5×5 / 6×6 / 7×7 modes with streak system</li>
-        <li>→ Correct AZ/TR «i» case-folding</li>
-        <li>→ Custom game engine · i18n · unit tests</li>
-      </ul>
-      <img src="https://img.shields.io/badge/COMING_SOON-5E7CFF?style=flat-square" alt="Coming soon"/>
-    </td>
   </tr>
 </table>
 
@@ -197,10 +186,10 @@ class ToghrulAghayev extends CrossPlatformEngineer {
 | | Period | Role | Company |
 |:---:|--------|------|---------|
 | 🟢 | 06/2024 — now | Flutter Developer | TenderYard LLC |
-| ⚪ | 01/2025 — 03/2026 | Flutter Developer | YadEt |
+| 🟢 | 01/2025 — now | Flutter Developer | YadEt |
 | ⚪ | 01/2023 — 12/2024 | Flutter Developer & Instructor | Codelandia IT School |
 | ⚪ | 05/2022 — 11/2022 | Flutter Developer | Freelance |
-| ⚪ | 11/2021 — 03/2022 | Flutter Intern & Mentor | TechCamp |
+| ⚪ | 11/2021 — 03/2022 | Flutter Developer Intern & Mentor | TechCamp |
 
 <br/>
 
@@ -266,10 +255,10 @@ class ToghrulAghayev extends CrossPlatformEngineer {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Azerbaijani-Native-5E7CFF?style=for-the-badge" alt="Azerbaijani"/>
-<img src="https://img.shields.io/badge/Turkish-C2-3DD68C?style=for-the-badge" alt="Turkish"/>
-<img src="https://img.shields.io/badge/English-B1-F5A623?style=for-the-badge" alt="English"/>
-<img src="https://img.shields.io/badge/Russian-A1-9A9AA3?style=for-the-badge" alt="Russian"/>
+<img src="https://img.shields.io/badge/Azerbaijani-Native_or_bilingual-5E7CFF?style=for-the-badge" alt="Azerbaijani"/>
+<img src="https://img.shields.io/badge/Turkish-Full_professional-3DD68C?style=for-the-badge" alt="Turkish"/>
+<img src="https://img.shields.io/badge/English-Limited_working-F5A623?style=for-the-badge" alt="English"/>
+<img src="https://img.shields.io/badge/Russian-Elementary-9A9AA3?style=for-the-badge" alt="Russian"/>
 
 </div>
 
